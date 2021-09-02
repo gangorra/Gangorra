@@ -16,6 +16,6 @@
 ##
   
 <div>
-  <a href="https://www.instagram.com/felipegangorra/" target="_black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="icone-Instagram"></a>
-  <a href="mailto:felipegangorra@gmail.com" target="_black"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
+  <a href="https://www.instagram.com/felipegangorra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="icone-Instagram"></a>
+  <a href="mailto:felipegangorra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
