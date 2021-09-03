@@ -12,6 +12,8 @@
   <img align="center" alt="Gangorra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gangorra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gangorra-avatar" src="https://cdn.discordapp.com/attachments/868299459543592962/883057567490777108/bd73cca2b21148ff459f242f37cb82b6.gif">
+  <a href="https://discord.gg/2t6KhAPkXt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-gangorra-0b99ab170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 ##
