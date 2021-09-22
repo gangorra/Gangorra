@@ -1,5 +1,5 @@
 ### Olá mundo!🌎 Olá você!👋
-- 🌱 Estudando Python, HTML e CSS3
+- 🌱 Estudando Python, HTML, CSS3 e JavaScript.
 - 📫 Meu contato: felipegangorra@gmail.com
 <div>
   <a href="https://github.com/Gangorra">
