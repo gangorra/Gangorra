@@ -1,6 +1,6 @@
 ### Olá mundo!🌎 Olá você!👋
 - 🌱 Estudando HTML, CSS3, JavaScript e Python.
-- 📫 Meu contato: felipegangorra@gmail.com
+- 📫 Meu contato: felipe.gangorra@ccc.ufcg.edu.br
 <div>
   <a href="https://github.com/Gangorra">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Gangorra&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" style="max-width: 80%;"/>
@@ -19,7 +19,7 @@
   
 <div>
   <a href="https://instagram.com/felipegangorra" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
-   <a href = "mailto:felipegangorra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:felipe.gangorra@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gangorra-0b99ab170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/2t6KhAPkXt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
