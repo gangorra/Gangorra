@@ -1,6 +1,18 @@
-### Olá mundo!🌎 Olá você!👋
-- 🌱 Estudando HTML, CSS3, JavaScript e Python.
-- 📫 Meu contato: felipe.gangorra@ccc.ufcg.edu.br
+### Oi! Sou Felipe Gangorra <img src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="25">
+
+##
+
+<img align="right" alt="GIF"
+src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="150" >
+
+```Python
+Gangorra = {
+  code = ["Python", "HTML", "CSS", "JavaScript"],
+  learning = ["Python", "Java", "React"],
+  contact = ["felipe.gangorra@ccc.ufcg.edu.br"]
+}
+```
+
 <div>
   <a href="https://github.com/Gangorra">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Gangorra&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" style="max-width: 80%;"/>
