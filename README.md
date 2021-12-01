@@ -2,6 +2,9 @@
 
 ##
 
+<img align="right" alt="GIF"
+src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="125" height="125" >
+
 ```Python
 Gangorra = {
   code = ["Python", "HTML", "CSS", "JavaScript"],
@@ -9,6 +12,7 @@ Gangorra = {
   contact = ["felipe.gangorra@ccc.ufcg.edu.br"]
 }
 ```
+##
 
 <div>
   <a href="https://github.com/Gangorra">
