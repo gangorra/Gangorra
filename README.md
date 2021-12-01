@@ -1,4 +1,4 @@
-### Oi! Sou Felipe Gangorra <img src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="25">
+### Hello World! I'm Gangorra <img src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="25">
 
 ##
 
