@@ -3,9 +3,10 @@
 ##
 
 <img align="right" alt="GIF"
-src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="125" height="130" >
+src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="155" height="230" >
 
 🖥 Graduando em Ciência da Computação na Universidade Federal de Campina Grande (UFCG), Brasil.
+
 
 ```Python
 Gangorra = {
@@ -38,7 +39,7 @@ Gangorra = {
  
 </div>
   
-##
+
 <!--  
 <div>
   <a href="https://instagram.com/felipegangorra" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
