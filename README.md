@@ -1,6 +1,6 @@
-### Hello World! I'm Gangorra <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >
+## Hello World! I'm Gangorra <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >
 
-##
+
 
 <img align="right" alt="GIF"
 src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="155" height="230" >
