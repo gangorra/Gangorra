@@ -5,6 +5,8 @@
 <img align="right" alt="GIF"
 src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="125" height="130" >
 
+Graduando em Ciência da Computação na Universidade Federal de Campina Grande (UFCG), Brasil.
+
 ```Python
 Gangorra = {
   code = ["Python", "HTML", "CSS", "JavaScript"],
