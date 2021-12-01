@@ -2,9 +2,6 @@
 
 ##
 
-<img align="right" alt="GIF"
-src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="150" >
-
 ```Python
 Gangorra = {
   code = ["Python", "HTML", "CSS", "JavaScript"],
@@ -24,7 +21,7 @@ Gangorra = {
   <img align="center" alt="Gangorra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gangorra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gangorra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Gangorra-avatar" src="https://cdn.discordapp.com/attachments/868299459543592962/883057567490777108/bd73cca2b21148ff459f242f37cb82b6.gif">
+  <img align="right" alt="Gangorra-avatar" src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="180" height="180">
 </div>
   
 ##
