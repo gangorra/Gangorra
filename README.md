@@ -9,7 +9,7 @@ src="https://cdn.discordapp.com/attachments/868299459543592962/91557786633334374
 
 
 ```Python
-gangorra = {
+Gangorra = {
   code = ["Python", "HTML", "CSS", "JavaScript"],
   learning = ["Python", "Java", "React"],
   contact = ["felipe.gangorra@ccc.ufcg.edu.br"]
