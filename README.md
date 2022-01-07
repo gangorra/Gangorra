@@ -1,4 +1,4 @@
-## Hello World! I'm Gangorra <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >
+## Hello World! I'm Gangorra 🌎 <!---<img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >-->
 
 
 
@@ -82,6 +82,6 @@ Gangorra = {
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangorra&layout=compact&langs_count=7&theme=ocean_dark" style="max-width: 80%;"/>
 </div>
  
-  ![Snake animation](https://github.com/Gangorra/Gangorra/blob/output/github-contribution-grid-snake.svg)
+  <!--- ![Snake animation](https://github.com/Gangorra/Gangorra/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
