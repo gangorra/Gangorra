@@ -1,13 +1,15 @@
-## Hello World! I'm Gangorra 🌎 <!---<img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >-->
+## Welcome! <!---<img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >-->
 
 
 
 <img align="right" alt="GIF"
 src="https://cdn.discordapp.com/attachments/868299459543592962/915577866333343744/ESGF1kX.gif" width="155" height="230" >
 
-🖥 Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
+• Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
 
+• Atualmente estudando Python, HTML, CSS e JavaScript.
 
+<!---
 ```Python
 Gangorra = {
   code = ["Python", "HTML", "CSS", "JavaScript"],
@@ -15,6 +17,7 @@ Gangorra = {
   contact = ["felipe.gangorra@ccc.ufcg.edu.br"]
 }
 ```
+-->
 
  #### 📫 How to reach me: 
  
