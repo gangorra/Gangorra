@@ -1,4 +1,4 @@
-## Welcome! <!---<img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" >-->
+## Welcome!
 
 
 <!---
@@ -9,16 +9,6 @@ src="https://cdn.discordapp.com/attachments/868299459543592962/91557786633334374
 • Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
 
 • Atualmente estudando: Python, HTML, CSS e JavaScript.
-
-<!---
-```Python
-Gangorra = {
-  code = ["Python", "HTML", "CSS", "JavaScript"],
-  learning = ["Python", "Java", "React"],
-  contact = ["felipe.gangorra@ccc.ufcg.edu.br"]
-}
-```
--->
 
  #### 📫 How to reach me: 
  
@@ -86,7 +76,5 @@ Gangorra = {
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Gangorra&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" style="max-width: 80%;"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangorra&layout=compact&langs_count=7&theme=ocean_dark" style="max-width: 80%;"/>
 </div>
- 
-  <!--- ![Snake animation](https://github.com/Gangorra/Gangorra/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
