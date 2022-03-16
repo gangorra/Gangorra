@@ -8,7 +8,7 @@ src="https://cdn.discordapp.com/attachments/868299459543592962/91557786633334374
 
 • Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
 
-• Atualmente estudando: Python, HTML, CSS e JavaScript.
+• Atualmente estudando: Python, HTML, CSS e JavaScript, PHP e SQL.
 
  #### 📫 How to reach me: 
  
