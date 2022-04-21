@@ -2,7 +2,7 @@
 
 • Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
 
-• Atualmente estudando:
+• Estudando:
 <p>
  &nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -12,7 +12,7 @@
       title="HTML"
       height="20px"
     />
-  </a>
+ </a>
  &nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img
@@ -21,7 +21,7 @@
       title="CSS"
       height="20px"
     />
-  </a>
+ </a>
  &nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img
@@ -30,16 +30,25 @@
       title="JavaScript"
       height="20px"
     />
-  </a>
+ </a>
  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python">
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="JavaScript"
       title="JavaScript"
       height="20px"
     />
-  </a>
+ </a>
+ &nbsp;
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
+      alt="Java"
+      title="Java"
+      height="20px"
+    />
+ </a>
 </p>
 
  #### 📫 How to reach me: 
