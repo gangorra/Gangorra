@@ -1,4 +1,4 @@
-## Welcome!
+## Bem-vindo!
 
 • Graduando em Ciência da Computação na Universidade Federal de Campina Grande ([*UFCG*](https://portal.ufcg.edu.br)), Brasil.
 
