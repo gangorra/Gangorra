@@ -35,8 +35,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="JavaScript"
-      title="JavaScript"
+      alt="Python"
+      title="Python"
       height="20px"
     />
  </a>
