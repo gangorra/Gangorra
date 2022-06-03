@@ -13,6 +13,6 @@
 
 <div>
   <a href="https://github.com/gangorra">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gangorra&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" style="max-width: 80%;"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangorra&layout=compact&langs_count=7&theme=gruvbox" style="max-width: 80%;"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gangorra&show_icons=true&theme=ayu-mirage" style="max-width: 80%;"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangorra&layout=compact&langs_count=7&theme=ayu-mirage" style="max-width: 80%;"/>
 </div>
